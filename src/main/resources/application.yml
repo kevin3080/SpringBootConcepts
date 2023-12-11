@@ -1,0 +1,5 @@
+logging:
+    level:
+        com.firtsappspring.tutospring: DEBUG
+        
+server.error.include-message: always
